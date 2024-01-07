@@ -1,0 +1,5 @@
+# Astro Runtime includes the following pre-installed providers packages: https://docs.astronomer.io/astro/runtime-image-architecture#provider-packages
+wtforms_sqlalchemy==0.3
+jsonschema==4.20.0
+pyyaml==6.0.1
+pandas==2.1.4 

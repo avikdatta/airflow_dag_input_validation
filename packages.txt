@@ -1,0 +1,4 @@
+wget
+git
+default-jre
+default-jdk-headless
